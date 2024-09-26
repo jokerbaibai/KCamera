@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>file</file>
+        <file alias="bstart">resource/batch start.svg</file>
+        <file alias="bstop">resource/batch stop.svg</file>
+        <file alias="connect">resource/connect device.svg</file>
+        <file alias="disconnect">resource/disconnect device.svg</file>
+        <file alias="start">resource/start.svg</file>
+        <file alias="stop">resource/stop.svg</file>
+        <file alias="crossline">resource/crossline.svg</file>
+        <file alias="fullscreen">resource/fullscreen.svg</file>
+        <file alias="gridline">resource/gridline.svg</file>
+        <file alias="hide">resource/hide.svg</file>
+        <file alias="photo">resource/photo.svg</file>
+        <file alias="show">resource/show.svg</file>
+        <file alias="fourview">resource/fourview.svg</file>
+        <file alias="nineview">resource/nineview.svg</file>
+        <file alias="singleview">resource/singleview.svg</file>
+        <file alias="toggleleft">resource/toggleleft.svg</file>
+        <file alias="toggleright">resource/toggleright.svg</file>
+    </qresource>
+</RCC>
